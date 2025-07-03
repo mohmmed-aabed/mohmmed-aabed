@@ -13,6 +13,7 @@ My name is Mohammed.
 ---
 
 My Expertise Areas:
+
 💻 Programming: Java, JavaScript, Python
 
 🌐 Web Technologies: HTML, CSS, React, Redux
