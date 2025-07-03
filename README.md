@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi There 👋
 
-My name is Mohammed. I'm a Front-End Web Developer and Problem-Solver with experience in HTML, CSS, JavaScript, and React.
+My name is Mohammed.
 
-Through my 10+ years of experience at multinational engineering companies, I have developed five essential skills that will stick with me for the rest of my life. Discipline, leadership, being able to work with a team, hard work, and attention to detail.
+✅ Experienced Business Analyst and Software QA Engineer skilled in requirements documentation, stakeholder collaboration, and test automation to ensure software meets business needs.
+🧪 Expertise in manual and automated testing, covering functional, UI, smoke, regression, and end-to-end testing across diverse applications.
+⚙️ Proficient in test automation frameworks (Selenium, Cypress) and API testing (Postman, REST Assured) to enhance test efficiency.
+🔍 Quality-driven and detail-oriented professional with a strong grasp of SRS, BRD, and Agile methodologies.
 
-I would love to connect. Please shoot me a message if you'd like to network.
+My Expertise Areas:
+💻 Programming: Java, JavaScript, Python
+🌐 Web Technologies: HTML, CSS, React, Redux
+🗃️ Backend & Databases: Node.js, Express.js, MongoDB, Mongoose, REST APIs, JSON
+🧪 QA & Automation: Cypress, Selenium, Postman, REST Assured
+📋 Project Management Tools: Jira, Agile (Scrum)
+📝 Documentation & Analysis: SRS, BRD
