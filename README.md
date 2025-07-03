@@ -10,6 +10,8 @@ My name is Mohammed.
 
 🔍 Quality-driven and detail-oriented professional with a strong grasp of SRS, BRD, and Agile methodologies.
 
+-
+
 My Expertise Areas:
 💻 Programming: Java, JavaScript, Python
 
